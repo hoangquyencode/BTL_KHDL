@@ -1,7 +1,7 @@
 # BTL_KHDL
 
 
-### lINK YOUTUBE: 
+### lINK YOUTUBE: https://www.youtube.com/watch?v=DFVi3ewUc-U
 
 ## Nguồn dữ liệu
 ### 1. Cơ sở xây dựng dữ liệu (Nguồn gốc logic)
